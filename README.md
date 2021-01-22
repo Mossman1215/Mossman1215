@@ -28,7 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [silverstripe/demo.silverstripe.org](https://github.com/silverstripe/demo.silverstripe.org) ([1.6.0](https://github.com/silverstripe/demo.silverstripe.org/releases/tag/1.6.0), 2 years ago) - SilverStripe feature demonstration website
 
 #### 📓 Gists I wrote
 
