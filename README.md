@@ -4,7 +4,7 @@
 
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 weeks ago)
 - [Mossman1215/freshdeskhelper](https://github.com/Mossman1215/freshdeskhelper) -  (1 month ago)
-- [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (1 month ago)
+- [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (2 months ago)
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (5 months ago)
 - [silverstripeltd/puppet-ss_solr](https://github.com/silverstripeltd/puppet-ss_solr) -  (5 months ago)
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda (9 months ago)
