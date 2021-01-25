@@ -11,7 +11,6 @@
 - [GentlemanMog/ProjectD](https://github.com/GentlemanMog/ProjectD) - Game (10 months ago)
 - [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) -  (11 months ago)
 - [JayneGale/PitStop](https://github.com/JayneGale/PitStop) -  (11 months ago)
-- [silverstripe/demo.silverstripe.org](https://github.com/silverstripe/demo.silverstripe.org) - SilverStripe feature demonstration website (1 year ago)
 
 #### 🌱 My latest projects
 
