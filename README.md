@@ -9,8 +9,6 @@
 - [silverstripeltd/puppet-ss_solr](https://github.com/silverstripeltd/puppet-ss_solr) -  (6 months ago)
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda (9 months ago)
 - [GentlemanMog/ProjectD](https://github.com/GentlemanMog/ProjectD) - Game (10 months ago)
-- [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) -  (1 year ago)
-- [JayneGale/PitStop](https://github.com/JayneGale/PitStop) -  (1 year ago)
 
 #### 🌱 My latest projects
 
