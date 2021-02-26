@@ -39,6 +39,6 @@
 
 - Twitter: https://twitter.com/pearofdoom
 - Fediverse: https://mastodon.technology/@pearofdoom
-- Blog: https://mountainmoss.nz
+- Blog: https://blog.mountainmoss.nz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
