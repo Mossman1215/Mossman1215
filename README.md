@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 week ago)
-- [Mossman1215/StaticSitePush](https://github.com/Mossman1215/StaticSitePush) -  (4 weeks ago)
+- [Mossman1215/StaticSitePush](https://github.com/Mossman1215/StaticSitePush) -  (1 month ago)
 - [silverstripeltd/tf-static-sites](https://github.com/silverstripeltd/tf-static-sites) -  (1 month ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (1 month ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 months ago)
