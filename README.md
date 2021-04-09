@@ -17,10 +17,10 @@
 - [Mossman1215/performance-model-stripe](https://github.com/Mossman1215/performance-model-stripe) - 
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda
 - [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) - 
+- [Mossman1215/gatsby-starter-silverstripe](https://github.com/Mossman1215/gatsby-starter-silverstripe) - A starter for a Gatsby/Silverstripe CMS integration
 - [Mossman1215/freshdeskhelper](https://github.com/Mossman1215/freshdeskhelper) - 
 - [Mossman1215/sspy-test](https://github.com/Mossman1215/sspy-test) - 
 - [Mossman1215/Outlaw](https://github.com/Mossman1215/Outlaw) - 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) - 
 
 #### 🔭 Latest releases I've contributed to
 
