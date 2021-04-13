@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 day ago)
+- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (2 days ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (2 months ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 months ago)
 - [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (4 months ago)
 - [silverstripeltd/puppet-ss_solr](https://github.com/silverstripeltd/puppet-ss_solr) -  (8 months ago)
-- [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda (11 months ago)
+- [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda (1 year ago)
 
 #### 🌱 My latest projects
 
