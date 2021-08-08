@@ -6,7 +6,6 @@
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (2 months ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (6 months ago)
 - [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (8 months ago)
-- [silverstripeltd/puppet-ss_solr](https://github.com/silverstripeltd/puppet-ss_solr) -  (1 year ago)
 
 #### 🌱 My latest projects
 
