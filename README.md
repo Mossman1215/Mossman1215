@@ -5,7 +5,7 @@
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (3 weeks ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (1 month ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (7 months ago)
-- [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (9 months ago)
+- [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (10 months ago)
 
 #### 🌱 My latest projects
 
