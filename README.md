@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 month ago)
-- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 months ago)
+- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (3 months ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (8 months ago)
 - [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (11 months ago)
 
@@ -25,7 +25,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (today)
+- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (1 day ago)
 - [](https://gist.github.com/dc3c25dd419a4bbe16502daf60de4931) (1 year ago)
 - [cwp web server test](https://gist.github.com/7e3889b2abed3be38c80f83ba7d231eb) (1 year ago)
 - [Change ownership powershell snippet](https://gist.github.com/61b61f25eb5da5cba82ab4829302e376) (2 years ago)
