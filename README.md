@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (today)
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (4 days ago)
+- [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (1 day ago)
+- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (5 days ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (3 months ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (9 months ago)
 - [silverstripeltd/puppet-sushi](https://github.com/silverstripeltd/puppet-sushi) -  (11 months ago)
@@ -26,8 +26,8 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (5 days ago)
-- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (1 week ago)
+- [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (6 days ago)
+- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (2 weeks ago)
 - [](https://gist.github.com/dc3c25dd419a4bbe16502daf60de4931) (1 year ago)
 - [cwp web server test](https://gist.github.com/7e3889b2abed3be38c80f83ba7d231eb) (2 years ago)
 - [Change ownership powershell snippet](https://gist.github.com/61b61f25eb5da5cba82ab4829302e376) (2 years ago)
