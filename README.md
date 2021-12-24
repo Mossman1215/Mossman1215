@@ -4,11 +4,12 @@
 
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 month ago)
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (1 month ago)
-- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (4 months ago)
+- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (5 months ago)
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (10 months ago)
 
 #### 🌱 My latest projects
 
+- [Mossman1215/xbox-eeprom](https://github.com/Mossman1215/xbox-eeprom) - unpacking xbox eeprom data in rust
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) - 
 - [Mossman1215/metlink-visualiser](https://github.com/Mossman1215/metlink-visualiser) - 
 - [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) - 
@@ -18,7 +19,6 @@
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda
 - [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) - 
 - [Mossman1215/gatsby-starter-silverstripe](https://github.com/Mossman1215/gatsby-starter-silverstripe) - A starter for a Gatsby/Silverstripe CMS integration
-- [Mossman1215/freshdeskhelper](https://github.com/Mossman1215/freshdeskhelper) - 
 
 #### 🔭 Latest releases I've contributed to
 
