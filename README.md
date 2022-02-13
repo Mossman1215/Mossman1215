@@ -5,7 +5,6 @@
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 weeks ago)
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 month ago)
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (3 months ago)
-- [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) -  (1 year ago)
 
 #### 🌱 My latest projects
 
