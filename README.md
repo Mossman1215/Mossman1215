@@ -2,12 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (today)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 months ago)
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (3 months ago)
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (5 months ago)
 
 #### 🌱 My latest projects
 
+- [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) - 
 - [Mossman1215/xbox-eeprom](https://github.com/Mossman1215/xbox-eeprom) - unpacking xbox eeprom data in rust
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) - 
 - [Mossman1215/metlink-visualiser](https://github.com/Mossman1215/metlink-visualiser) - 
@@ -17,7 +19,6 @@
 - [Mossman1215/performance-model-stripe](https://github.com/Mossman1215/performance-model-stripe) - 
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda
 - [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) - 
-- [Mossman1215/gatsby-starter-silverstripe](https://github.com/Mossman1215/gatsby-starter-silverstripe) - A starter for a Gatsby/Silverstripe CMS integration
 
 #### 🔭 Latest releases I've contributed to
 
