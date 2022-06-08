@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Mossman1215/kube-network](https://github.com/Mossman1215/kube-network) - managing homelab kubernetes configuration (today)
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (3 days ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (1 month ago)
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (1 month ago)
@@ -9,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+- [Mossman1215/kube-network](https://github.com/Mossman1215/kube-network) - managing homelab kubernetes configuration
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) - 
 - [Mossman1215/xbox-eeprom](https://github.com/Mossman1215/xbox-eeprom) - unpacking xbox eeprom data in rust
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) - 
@@ -18,7 +20,6 @@
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres
 - [Mossman1215/performance-model-stripe](https://github.com/Mossman1215/performance-model-stripe) - 
 - [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda
-- [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) - 
 
 #### 🔭 Latest releases I've contributed to
 
