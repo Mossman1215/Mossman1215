@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/kube-network](https://github.com/Mossman1215/kube-network) - managing homelab kubernetes configuration (today)
+- [Mossman1215/kube-network](https://github.com/Mossman1215/kube-network) - managing homelab kubernetes configuration (1 day ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 weeks ago)
 - [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 month ago)
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (3 months ago)
@@ -27,7 +27,7 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (8 months ago)
-- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (8 months ago)
+- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (9 months ago)
 - [](https://gist.github.com/dc3c25dd419a4bbe16502daf60de4931) (2 years ago)
 - [cwp web server test](https://gist.github.com/7e3889b2abed3be38c80f83ba7d231eb) (2 years ago)
 - [Change ownership powershell snippet](https://gist.github.com/61b61f25eb5da5cba82ab4829302e376) (2 years ago)
