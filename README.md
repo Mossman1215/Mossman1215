@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 week ago)
+- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (2 weeks ago)
 - [Mossman1215/kube-network](https://github.com/Mossman1215/kube-network) - managing homelab kubernetes configuration (2 weeks ago)
-- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (4 weeks ago)
+- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (1 month ago)
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (3 months ago)
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (9 months ago)
 
