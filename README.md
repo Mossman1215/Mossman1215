@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (today)
-- [GentlemanMog/zencactus](https://github.com/GentlemanMog/zencactus) - Personal Profile Website (today)
+- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 day ago)
+- [GentlemanMog/zencactus](https://github.com/GentlemanMog/zencactus) - Personal Profile Website (1 day ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (2 months ago)
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (5 months ago)
 - [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) -  (10 months ago)
