@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (4 days ago)
+- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (5 days ago)
 - [GentlemanMog/zencactus](https://github.com/GentlemanMog/zencactus) - Personal Profile Website (1 month ago)
 - [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (3 months ago)
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (6 months ago)
@@ -26,7 +26,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (11 months ago)
+- [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (1 year ago)
 - [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (1 year ago)
 - [](https://gist.github.com/dc3c25dd419a4bbe16502daf60de4931) (2 years ago)
 - [cwp web server test](https://gist.github.com/7e3889b2abed3be38c80f83ba7d231eb) (2 years ago)
