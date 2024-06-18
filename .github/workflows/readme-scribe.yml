@@ -1,7 +1,11 @@
 name: Update README
 
 on:
-  push:
+  schedule:
+    - cron: "0 * * * */1"
+  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   markscribe:
@@ -9,10 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
-
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           template: "profile-template.tpl"
           writeTo: "README.md"
