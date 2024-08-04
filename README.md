@@ -2,39 +2,41 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mossman1215/ansible-home](https://github.com/Mossman1215/ansible-home) -  (1 month ago)
-- [GentlemanMog/zencactus](https://github.com/GentlemanMog/zencactus) - Personal Profile Website (2 months ago)
-- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (4 months ago)
-- [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) -  (7 months ago)
+- [GeoNet/base-images](https://github.com/GeoNet/base-images) - Base images for use by GeoNet tools (1 month ago)
+- [Mossman1215/journeys-mastodon](https://github.com/Mossman1215/journeys-mastodon) -  (1 month ago)
+- [GeoNet/Actions](https://github.com/GeoNet/Actions) - GitHub Actions for GeoNet (4 months ago)
+- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres (9 months ago)
+- [Mossman1215/rust-scripts](https://github.com/Mossman1215/rust-scripts) - testing out rust single file scripts (9 months ago)
+- [Mossman1215/metaname-tf](https://github.com/Mossman1215/metaname-tf) - idk maybe make something (11 months ago)
+- [Mossman1215/hashicat-app](https://github.com/Mossman1215/hashicat-app) - HaschiCat App is a social app for felines of all kinds. (11 months ago)
 
 #### 🌱 My latest projects
 
+- [Mossman1215/journeys-mastodon](https://github.com/Mossman1215/journeys-mastodon) - 
+- [Mossman1215/economics-blog](https://github.com/Mossman1215/economics-blog) - place to rant about econ101
+- [Mossman1215/metaname-tf](https://github.com/Mossman1215/metaname-tf) - idk maybe make something
+- [Mossman1215/hashicat-app](https://github.com/Mossman1215/hashicat-app) - HaschiCat App is a social app for felines of all kinds.
+- [Mossman1215/rust-scripts](https://github.com/Mossman1215/rust-scripts) - testing out rust single file scripts
+- [Mossman1215/f3-import-scripts](https://github.com/Mossman1215/f3-import-scripts) - 
+- [Mossman1215/print-env-web-go](https://github.com/Mossman1215/print-env-web-go) - Test repo for env var base64 decode
+- [Mossman1215/print-env-vars](https://github.com/Mossman1215/print-env-vars) - test app to decode base64 env vars on a web app
 - [Mossman1215/s3-html](https://github.com/Mossman1215/s3-html) - 
 - [Mossman1215/xbox-eeprom](https://github.com/Mossman1215/xbox-eeprom) - unpacking xbox eeprom data in rust
-- [Mossman1215/mountainmoss-tf](https://github.com/Mossman1215/mountainmoss-tf) - 
-- [Mossman1215/metlink-visualiser](https://github.com/Mossman1215/metlink-visualiser) - 
-- [Mossman1215/tf-static-site](https://github.com/Mossman1215/tf-static-site) - 
-- [Mossman1215/StaticSitePush](https://github.com/Mossman1215/StaticSitePush) - 
-- [Mossman1215/metlink-tracker-rust](https://github.com/Mossman1215/metlink-tracker-rust) - ingest service feeds into postgres
-- [Mossman1215/performance-model-stripe](https://github.com/Mossman1215/performance-model-stripe) - 
-- [Mossman1215/FP2Discord](https://github.com/Mossman1215/FP2Discord) - Freshping to discord lambda
-- [Mossman1215/log_spit](https://github.com/Mossman1215/log_spit) - 
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/2dbd4ad18de86fc6f6263ee3691eccd0) (1 year ago)
-- [](https://gist.github.com/79fc0b8163e4bc2eef0a0942326f3133) (1 year ago)
-- [](https://gist.github.com/dc3c25dd419a4bbe16502daf60de4931) (2 years ago)
-- [cwp web server test](https://gist.github.com/7e3889b2abed3be38c80f83ba7d231eb) (2 years ago)
-- [Change ownership powershell snippet](https://gist.github.com/61b61f25eb5da5cba82ab4829302e376) (2 years ago)
+- [Remove systemctl service](https://gist.github.com/6d5f4043c1067699095e9a3b71468323) (1 month ago)
+- [Hello-world-actions](https://gist.github.com/db5d62a5bb9e3b40401536b82897cd25) (9 months ago)
+- [snow crash gpu kernel logs](https://gist.github.com/d3038e20e9b9b9d99386f7f25bad0afc) (10 months ago)
+- [delete actions runs logs](https://gist.github.com/8f5cf7bb26c197bf0d02795493cd28da) (10 months ago)
+- [Mikrotik bridge configuration](https://gist.github.com/d9155c6fe52220bed28886eb922211ac) (11 months ago)
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/pearofdoom
-- Fediverse: https://mastodon.technology/@pearofdoom
+- Fediverse: https://cloudisland.nz/@pearofdoom
 - Blog: https://blog.mountainmoss.nz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
