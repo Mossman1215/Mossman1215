@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
-Name: [{{.Repo.Name}}]({{.Repo.URL}})
+[{{.Repo.Name}}]({{.Repo.URL}})
 
 Last Change: {{humanize .OccurredAt}}
 
@@ -10,9 +10,7 @@ Last Change: {{humanize .OccurredAt}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
-Name: [{{.Name}}]({{.URL}})
-
-Stars: {{.Stargazers}}
+[{{.Name}}]({{.URL}})
 
 {{end}}
 
