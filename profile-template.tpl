@@ -2,19 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
-Name: {{.Repo.Name}}
+Name: [{{.Repo.Name}}]({{.Repo.URL}})
 
-URL: {{.Repo.URL}})
-
-Occurred: {{humanize .OccurredAt}}
+Last Change: {{humanize .OccurredAt}}
 
 {{end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
-Name: {{.Name}}
-
-URL: {{.URL}})
+Name: [{{.Name}}]({{.URL}})
 
 Stars: {{.Stargazers}}
 
